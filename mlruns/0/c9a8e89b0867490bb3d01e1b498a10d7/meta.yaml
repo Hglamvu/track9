@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lamvuhoang/Desktop/track9/mlruns/0/c9a8e89b0867490bb3d01e1b498a10d7/artifacts
+end_time: 1723005325467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9a8e89b0867490bb3d01e1b498a10d7
+run_name: redolent-flea-607
+run_uuid: c9a8e89b0867490bb3d01e1b498a10d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723005325463
+status: 3
+tags: []
+user_id: lamvuhoang

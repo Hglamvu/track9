@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/lamvuhoang/Desktop/track9/mlruns/0/98b69b19d9584d81a8256bf0d45ed1e5/artifacts
+deleted_time: 1723104181239
+end_time: 1723103471089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 98b69b19d9584d81a8256bf0d45ed1e5
+run_name: custom_model_run
+run_uuid: 98b69b19d9584d81a8256bf0d45ed1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723103469973
+status: 3
+tags: []
+user_id: lamvuhoang

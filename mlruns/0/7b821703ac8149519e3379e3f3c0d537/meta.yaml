@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lamvuhoang/Desktop/track9/mlruns/0/7b821703ac8149519e3379e3f3c0d537/artifacts
+end_time: 1723100104312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b821703ac8149519e3379e3f3c0d537
+run_name: child11
+run_uuid: 7b821703ac8149519e3379e3f3c0d537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723100104308
+status: 3
+tags: []
+user_id: lamvuhoang

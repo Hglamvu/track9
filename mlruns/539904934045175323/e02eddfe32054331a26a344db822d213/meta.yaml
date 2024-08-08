@@ -1,0 +1,15 @@
+artifact_uri: /Users/lamvuhoang/Desktop/track9/testing_mlflow1_artifact/e02eddfe32054331a26a344db822d213/artifacts
+end_time: 1723088823928
+entry_point_name: ''
+experiment_id: '539904934045175323'
+lifecycle_stage: active
+run_id: e02eddfe32054331a26a344db822d213
+run_name: logging_images
+run_uuid: e02eddfe32054331a26a344db822d213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723088821065
+status: 3
+tags: []
+user_id: lamvuhoang
